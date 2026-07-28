@@ -1,0 +1,33 @@
+[font]
+size = 12.0
+normal = { family = "JetBrainsMono Nerd Font", style = "Regular" }
+
+[window]
+padding = { x = 15, y = 15 }
+
+#[colors.primary]
+#background = '#07232c'
+#foreground = '#dc6a2b'
+
+[colors.normal]
+black   = '#242829'
+red     = '#df2683'
+green   = '#13868c'
+yellow  = '#fcfcdf'
+blue    = '#1a86b9'
+magenta = '#bc7fd2'
+cyan    = '#7cc7d6'
+white   = '#dcd7d7'
+
+[colors.bright]
+black   = '#7b8b99'
+red     = '#df2683'
+green   = '#13868c'
+yellow  = '#fcfcdf'
+blue    = '#1a86b9'
+magenta = '#bc7fd2'
+cyan    = '#7cc7d6'
+white   = '#dcd7d7'
+
+[general]
+import = ["~/.config/alacritty/themes/themes/tokyo_night_storm.toml"]
