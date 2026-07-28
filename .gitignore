@@ -1,5 +1,6 @@
 baloofileinformationrc
 clangd/
+.qmlformat.ini
 Code/
 Code - OSS/
 cursor/
